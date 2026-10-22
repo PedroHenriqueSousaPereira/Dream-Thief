@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_draw_dither_fade",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_dither_fade",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Restantes/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

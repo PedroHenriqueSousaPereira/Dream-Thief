@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_banco_de_dados",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_banco_de_dados",
+  "parent":{
+    "name":"objetos_hud",
+    "path":"folders/Objetos/objetos_hud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

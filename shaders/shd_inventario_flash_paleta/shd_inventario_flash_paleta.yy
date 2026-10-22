@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_inventario_flash_paleta",
+  "name":"shd_inventario_flash_paleta",
+  "parent":{
+    "name":"objetos_hud",
+    "path":"folders/Objetos/objetos_hud.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"Shader1",
+  "name":"Shader1",
+  "parent":{
+    "name":"objetos_hud",
+    "path":"folders/Objetos/objetos_hud.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

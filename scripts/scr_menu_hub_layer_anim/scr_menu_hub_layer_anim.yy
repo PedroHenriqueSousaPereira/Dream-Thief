@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_menu_hub_layer_anim",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_menu_hub_layer_anim",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Restantes/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
